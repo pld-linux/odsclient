@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/Networking
 Source0:	http://www.ods.org/%{name}-%{version}.tar.gz
+# Source0-md5:	96d5e6b09a4732031c5fe8ecae336746
 URL:		http://www.ods.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
