@@ -24,11 +24,14 @@ domen.
 %setup -q
 
 %build
-%{__make} 
+%{__make} \
+	CFLAGS="%{rpmcflags}" \
+	CC="%{__cc}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_sbindir}
+
 install %{name} $RPM_BUILD_ROOT%{_sbindir}
 
 gzip -9nf README
