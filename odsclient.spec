@@ -5,8 +5,6 @@ Version:	1.02
 Release:	1
 License:	GPL
 Group:		Applications/Networking
-Group(de):	Applikationen/Netzwerkwesen
-Group(pl):	Aplikacje/Sieciowe
 Source0:	http://www.ods.org/%{name}-%{version}.tar.gz
 URL:		http://www.ods.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
