@@ -1,5 +1,5 @@
-Summary:	Hello, world!
-Summary(pl):	Cze¶æ, to ja!
+Summary:	Free dynamic DNS services.
+Summary(pl):	Darmowy serwis DNS.
 Name:		odsclient
 Version:	1.02
 Release:	1
