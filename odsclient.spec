@@ -1,5 +1,5 @@
 Summary:	Free dynamic DNS services
-Summary(pl):	Darmowy serwis DNS
+Summary(pl.UTF-8):   Darmowy serwis DNS
 Name:		odsclient
 Version:	1.02
 Release:	2
@@ -15,8 +15,8 @@ ODS provides free dynamic DNS services (e.g. a host such as
 yourhost.ods.org pointing to your computer) with a wide selection of
 domains.
 
-%description -l pl
-ODS prowadzi darmowy serwis DNS z szerokim wachlarzem dostêpnych
+%description -l pl.UTF-8
+ODS prowadzi darmowy serwis DNS z szerokim wachlarzem dostÄ™pnych
 domen.
 
 %prep
