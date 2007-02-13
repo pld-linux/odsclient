@@ -1,5 +1,5 @@
 Summary:	Free dynamic DNS services
-Summary(pl.UTF-8):   Darmowy serwis DNS
+Summary(pl.UTF-8):	Darmowy serwis DNS
 Name:		odsclient
 Version:	1.02
 Release:	2
