@@ -1,12 +1,12 @@
 Summary:	Free dynamic DNS services
 Summary(pl.UTF-8):	Darmowy serwis DNS
 Name:		odsclient
-Version:	1.02
-Release:	2
+Version:	1.03
+Release:	1
 License:	GPL
 Group:		Applications/Networking
-Source0:	http://www.ods.org/%{name}-%{version}.tar.gz
-# Source0-md5:	96d5e6b09a4732031c5fe8ecae336746
+Source0:	http://www.ods.org/dl/%{name}-%{version}.tar.gz
+# Source0-md5:	f4d5502b7d8799fc6555d7d98ef6b964
 URL:		http://www.ods.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
